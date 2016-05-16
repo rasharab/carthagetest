@@ -1,0 +1,4 @@
+github "mac-cain13/R.swift.Library" "v2.1.0"
+github "antitypical/Result" "2.0.0"
+github "surya-soft/SwiftUtils" "85cce352e239fd6afcd18a9975fc92c48346ee8c"
+github "SwiftyBeaver/SwiftyBeaver" "0.5.3"
